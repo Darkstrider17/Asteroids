@@ -1,5 +1,4 @@
 import pygame
-from constants import ASTEROID_MAX_RADIUS, ASTEROID_MIN_RADIUS
 from circleshape import CircleShape
 
 
